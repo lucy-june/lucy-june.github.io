@@ -14,7 +14,7 @@ I love technologies. I love the world. No matter where I am, in my hometown Chin
 
 **Summary**: A web application for managing students/teachers information, importing/recording students' scores, and analyzing/visualizing students’ performance. Created multiple analysis algorithms/pipelines from different dimensions. Built fancy UI and diagrams for visualization.
 
-![preview](./xroster.png)
+![preview](./preview/xroster.png)
 
 ---
 
@@ -26,7 +26,7 @@ I love technologies. I love the world. No matter where I am, in my hometown Chin
 
 **Summary**: A system for HR, hiring managers and candidates, to interact with each other during the recruiting process, in STEM industry. Designed and built a user-friendly UI for operating through the whole recruiting life cycle.
 
-![preview](./xstem.png)
+![preview](./preview/xstem.png)
 
 ---
 
@@ -38,7 +38,7 @@ I love technologies. I love the world. No matter where I am, in my hometown Chin
 
 **Summary**: Elastic Mobile E-Commerce (a.k.a. E-MEC) is an online-to-offline e-commerce platform. It has been adopted by several large malls and retailing stores in Shanghai, to facilitate their O2O digital transformation.
 
-![preview](./emec.png)
+![preview](./preview/emec.png)
 
 ---
 
@@ -50,7 +50,7 @@ I love technologies. I love the world. No matter where I am, in my hometown Chin
 
 **Summary**: a Cloud-hosted searchable IMDB , by retrieving data from 3rd party movies API and utilizing a full-text search framework to support token-based query.
 
-![preview](./ximdb.png)
+![preview](./preview/ximdb.png)
 
 ---
 
@@ -62,6 +62,6 @@ I love technologies. I love the world. No matter where I am, in my hometown Chin
 
 **Summary**: A concise and elegant grocery website, wrote in Angular and deployed on GCP compute engine.
 
-![preview](./xstore.png)
+![preview](./preview/xstore.png)
 
 ---
