@@ -32,7 +32,7 @@ I love technologies. I love the world. No matter where I am, in my hometown Chin
 
 ### Elastic Mobile E-Commerce Platform
 
-**Links**: [project details](./emec.md), [demo - sanitized](https://34.123.176.202:3001)
+**Links**: [project details](./emec.md), [demo sanitized](https://34.123.176.202:3001)
 
 **Skillsets**: *Nodejs, HTML/CSS, Mysql Fabric, ElasticSearch, Nginx, on-prem DevOps*
 
