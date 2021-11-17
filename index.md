@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# Summary
 
-You can use the [editor on GitHub](https://github.com/lucy-june/lucy-june.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+As a full stack software engineer, I believe our ultimate goal is to make a perfect product. Sometimes, it's like a dream that's not something we can achieve in the short term, but we keep pursuing it in our life. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I love technology. I love world. No matter where am I, in my hometown of China or relocated in the US，I have a dream to use technologies to make the world a little better. No matter how my life evolve, this mission remains constant.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Projects
 
-```markdown
-Syntax highlighted code block
+### Student Performance Analysis System 
+![preview](./xroster.png)
 
-# Header 1
-## Header 2
-### Header 3
+### STEM Recruiting System
+![preview](./xstem.png)
 
-- Bulleted
-- List
+### Elastic Mobile E-Commerce Platform
+![preview](./emec.png)
 
-1. Numbered
-2. List
+### Movie Search Engine
+![preview](./ximdb.png)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lucy-june/lucy-june.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Online Grocery Store
+![preview](./xstore.png)
