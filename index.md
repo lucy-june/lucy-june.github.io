@@ -8,7 +8,7 @@ I love technologies. I love the world. No matter where I am, in my hometown Chin
 
 ### Student Performance Analysis System 
 
-**Links**: [project details](./xroster.md), [demo](http://34.123.176.202:8080)
+**Links**: [project details](./xroster.md), [demo on AWS](http://34.123.176.202:8080)
 
 **Skillsets**: *AWS, Java, SpringBoot, Redis, PostgreSQL, Echarts, HTML/CSS*
 
@@ -20,7 +20,7 @@ I love technologies. I love the world. No matter where I am, in my hometown Chin
 
 ### STEM Recruiting System
 
-**Links**: [project details](./xstem.md), [demo](http://34.123.176.202:8081)
+**Links**: [project details](./xstem.md), [demo on AWS](http://34.123.176.202:8081)
 
 **Skillsets**: *Java, Maven, MySQL, Javascript, Bootstrap, HTML/CSS, AWS*
 
@@ -32,7 +32,7 @@ I love technologies. I love the world. No matter where I am, in my hometown Chin
 
 ### Elastic Mobile E-Commerce Platform
 
-**Links**: [project details](./emec.md), [demo](https://34.123.176.202:3001)
+**Links**: [project details](./emec.md), [demo - sanitized](https://34.123.176.202:3001)
 
 **Skillsets**: *Nodejs, HTML/CSS, Mysql Fabric, ElasticSearch, Nginx, on-prem DevOps*
 
@@ -44,7 +44,7 @@ I love technologies. I love the world. No matter where I am, in my hometown Chin
 
 ### Movie Search Engine
 
-**Links**: [project details](./ximdb.md), [demo](http://35.225.43.107:5000)
+**Links**: [project details](./ximdb.md), [demo on GCP](http://35.225.43.107:5000)
 
 **Skillsets**: *React, Elasticsearch, Node.js, HTML/CSS, GCP*
 
@@ -56,7 +56,7 @@ I love technologies. I love the world. No matter where I am, in my hometown Chin
 
 ### Online Grocery Store
 
-**Links**: [project details](./xstore.md), [demo](http://35.225.43.107:4200)
+**Links**: [project details](./xstore.md), [demo on GCP](http://35.225.43.107:4200)
 
 **Skillsets**: *Angular, Nodejs, PostgreSQL, Express, HTML/CSS, GCP*
 
