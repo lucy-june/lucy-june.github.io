@@ -6,7 +6,7 @@ a Cloud-hosted searchable IMDB , by retrieving data from 3rd party movies API an
 
 ## Demo
 
-* http://35.225.43.107:5000
+* http://35.225.43.107:5000 (deployed on GCP)
 * no access control
 
 ## Skillset
