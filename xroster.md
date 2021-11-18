@@ -7,7 +7,7 @@ Created multiple analysis algorithms/pipelines from different dimensions. Built 
 
 ### Demo
 
-* http://34.123.176.202:8080 (deployed on AWS)
+* [http://34.123.176.202:8080](http://34.123.176.202:8080) (deployed on AWS)
 * username: test@qq.com
 * password: 123
 
