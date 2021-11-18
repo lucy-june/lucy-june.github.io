@@ -8,16 +8,16 @@ Designed and built a user-friendly UI for operating through the whole recruiting
 ### Demo
 
 * [http://34.123.176.202:8081/](http://34.123.176.202:8081/) (deployed on AWS)
-* Candidate Accounts:
+* Candidate accounts:
     * w1@qq.com
     * w2@qq.com
     * w3@qq.com
 * HR account:
     * hr@qq.com
-* Hiring manager Accounts:
+* Hiring manager accounts:
     * mg1@qq.com
     * mg2@qq.com
-* Password for the all above accounts: 123
+* Password for all the above accounts: 123
 
 ### Skillset
 
@@ -32,7 +32,7 @@ Designed and built a user-friendly UI for operating through the whole recruiting
 
 ### Exhibition
 
-* Recruiting system landing page, Candidate/HR/Hiring Manager have different entries:
+* Recruiting system landing page, Candidate/HR/Hiring Manager have different entrances:
 ![image](./xstem/home.png)
 
 ---
@@ -113,4 +113,3 @@ Designed and built a user-friendly UI for operating through the whole recruiting
 ![image](./xstem/hr-offer.png)
 
 ---
-
