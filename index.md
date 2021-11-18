@@ -6,6 +6,18 @@ I love technologies. I love the world. No matter where I am, in my hometown Chin
 
 # Projects
 
+### Elastic Mobile E-Commerce Platform
+
+**Links**: [project details](./emec.md), [demo sanitized](https://34.123.176.202:3001)
+
+**Skillsets**: *Nodejs, HTML/CSS, Mysql Fabric, ElasticSearch, Nginx, on-prem DevOps*
+
+**Summary**: Elastic Mobile E-Commerce (a.k.a. E-MEC) is an online-to-offline e-commerce platform. It has been adopted by several large malls and retailing stores in Shanghai, to facilitate their O2O digital transformation.
+
+![preview](./design/emec.png)
+
+---
+
 ### Student Performance Analysis System 
 
 **Links**: [project details](./xroster.md), [demo on AWS](http://34.123.176.202:8080)
@@ -27,18 +39,6 @@ I love technologies. I love the world. No matter where I am, in my hometown Chin
 **Summary**: A system for HR, hiring managers and candidates, to interact with each other during the recruiting process, in STEM industry. Designed and built a user-friendly UI for operating through the whole recruiting life cycle.
 
 ![preview](./preview/xstem.png)
-
----
-
-### Elastic Mobile E-Commerce Platform
-
-**Links**: [project details](./emec.md), [demo sanitized](https://34.123.176.202:3001)
-
-**Skillsets**: *Nodejs, HTML/CSS, Mysql Fabric, ElasticSearch, Nginx, on-prem DevOps*
-
-**Summary**: Elastic Mobile E-Commerce (a.k.a. E-MEC) is an online-to-offline e-commerce platform. It has been adopted by several large malls and retailing stores in Shanghai, to facilitate their O2O digital transformation.
-
-![preview](./preview/emec.png)
 
 ---
 
