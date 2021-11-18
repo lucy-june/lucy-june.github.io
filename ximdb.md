@@ -1,26 +1,26 @@
 # Movie Search Engine
 
-## Summary
+### Summary
 
 a Cloud-hosted searchable IMDB , by retrieving data from 3rd party movies API and utilizing a full-text search framework to support token-based query.
 
-## Demo
+### Demo
 
-* http://35.225.43.107:5000 (deployed on GCP)
+* [http://35.225.43.107:5000](http://35.225.43.107:5000) (deployed on GCP)
 * no access control
 
-## Skillset
+### Skillset
 
 * **Frontend**: *React*, *Javascript*, *HTML/CSS*
 * **Backend**: *Node.js*
 * **Search Engine**: *Elasticsearch*
 * **Launch**: *GCP*
 
-## Design & Architecture
+### Design & Architecture
 
 ![image](./design/ximdb.png)
 
-## Exhibition
+### Exhibition
 
 * Movie Search Engine landing page:
 ![image](./ximdb/landing.png)
