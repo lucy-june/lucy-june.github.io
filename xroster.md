@@ -1,28 +1,28 @@
 # Student Perf Analysis System
 
-## Summary
+### Summary
 
 A web application for managing students/teachers information, importing/recording students' scores, and analyzing/visualizing students’ performance.
 Created multiple analysis algorithms/pipelines from different dimensions. Built fancy UI and diagrams for visualization.
 
-## Demos
+### Demo
 
 * http://34.123.176.202:8080 (deployed on AWS)
 * username: test@qq.com
 * password: 123
 
-## Skillset
+### Skillset
 
 * **Backend**: *Java*, *SpringBoot*, *JOOQ*
 * **Frontend**: *ECharts*, *Javascript*, *HTML/CSS*
 * **Data Storage**: *PostgreSQL*, *Redis*
 * **Launch**: *AWS*
 
-## Design & Architecture
+### Design & Architecture
 
 ![image](./design/xroster.png)
 
-## Exhibition
+### Exhibition
 
 * Login: Teachers or Admins can login to the student performance Analysis System:
 ![image](./xroster/login.png)
