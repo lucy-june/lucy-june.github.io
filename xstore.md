@@ -7,7 +7,7 @@ like products, cart and order to empower the grocery store with the ability of o
 
 ### Demo
 
-* http://35.225.43.107:4200/ (deployed on GCP)
+* [http://35.225.43.107:4200/](http://35.225.43.107:4200/) (deployed on GCP)
 * username: gkvoid1@gmail.com
 * password: 1234567890
 
