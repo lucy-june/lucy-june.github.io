@@ -50,7 +50,7 @@ in Shanghai New International Expo Center and gain great reputation.
   * Admins
     * Account Super Management
     * Store Super Management
-    * Crypton Key Super Management
+    * Crypto Key Super Management
     * Activities Super Management
     
 * Non-functional Requirement
